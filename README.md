@@ -1,5 +1,7 @@
 Inject Challenge (Rubyist Badge)
 ================
+[![Code Climate](https://codeclimate.com/github/armi1189/inject-challenge/badges/gpa.svg)](https://codeclimate.com/github/armi1189/inject-challenge)
+-------
 
 Instructions
 -------
